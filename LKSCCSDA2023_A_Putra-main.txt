@@ -1,0 +1,17 @@
+Modul 1
+
+Untuk menampilkan Data saya menggunakan framework PHP, didalam data tersebut saya sudah menyiapkan beberapa tambahan seperti menambah data mobil,edit dan juga hapus data untuk lebih detailnya bisa kunjungi halaman berikut https://mobil-lks.000webhostapp.com/ 
+
+Saya menggunakan hosting dari 00Webhost,disana sudah menyediakan domain,disediakan databasenya juga dan cara menghostingnya pun terbilang mudah. 
+Pertama melihat soal saya langsung buat databasenya di localhost,lalu membuat codingan CRUD menggunakan php. Kurang lebih seperti itu
+
+Setelah php kita terhubung sama databasenya tinggal kita hosting. hostingnya menggunakan 000webhost .
+Membuat akun terlabih dahulu dan setelah itu kita masuk ke dalam file manager lalu kita upload file kita ke dalam 000webhost
+
+
+Dan jangan lupa membuat databasenya di menu database manager 
+
+disana membuat database lalu mengeksport database localhost ke dalam database 000webhostnya 
+setelah itu kita masukkan filenya ke file manager public_htmlnya dan sudah tinggal jalanin urlnya,waktu itu eror karena nama database localhost sama database 000webhost berbeda jadi setelah itu selesai
+
+
